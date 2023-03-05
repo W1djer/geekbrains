@@ -3,3 +3,13 @@ E:\Geekbrains\3.1\example002\obj\Debug\net7.0\example002.GeneratedMSBuildEditorC
 E:\Geekbrains\3.1\example002\obj\Debug\net7.0\example002.AssemblyInfoInputs.cache
 E:\Geekbrains\3.1\example002\obj\Debug\net7.0\example002.AssemblyInfo.cs
 E:\Geekbrains\3.1\example002\obj\Debug\net7.0\example002.csproj.CoreCompileInputs.cache
+E:\Geekbrains\3.1\example002\bin\Debug\net7.0\example002.exe
+E:\Geekbrains\3.1\example002\bin\Debug\net7.0\example002.deps.json
+E:\Geekbrains\3.1\example002\bin\Debug\net7.0\example002.runtimeconfig.json
+E:\Geekbrains\3.1\example002\bin\Debug\net7.0\example002.dll
+E:\Geekbrains\3.1\example002\bin\Debug\net7.0\example002.pdb
+E:\Geekbrains\3.1\example002\obj\Debug\net7.0\example002.dll
+E:\Geekbrains\3.1\example002\obj\Debug\net7.0\refint\example002.dll
+E:\Geekbrains\3.1\example002\obj\Debug\net7.0\example002.pdb
+E:\Geekbrains\3.1\example002\obj\Debug\net7.0\example002.genruntimeconfig.cache
+E:\Geekbrains\3.1\example002\obj\Debug\net7.0\ref\example002.dll
